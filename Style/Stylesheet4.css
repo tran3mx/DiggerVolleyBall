@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container {
+	margin-top: 50px;
+margin-right: 10px;
+margin-bottom: 3px;
+margin-left: 20px;
+	width:100%;
+	
+	
+}
+
+#banner {
+	width: 90%;
+	font-family: "Comic Sans MS", cursive;
+background-color: #C03;
+margin-left: 10px;
+margin-right: 10px;
+}
+#table {
+	 table-layout:auto;
+	 text-align:center;
+}
+	
+
+#Maincontent {
+	width: 90%;
+	float: left;
+	width: 100%;
+	float: left;
+	font-family: "Comic Sans MS", cursive;
+	font-size: large;
+	text-align: left;
+	padding-top: 20px;
+	padding-right: 50px;
+	margin-top: 5px;
+    margin-right: 10px;
+    margin-left: 10px;
+	Color:#000;
+	
+	
+
+}

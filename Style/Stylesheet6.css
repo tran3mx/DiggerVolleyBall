@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container {
+	margin-top: 50px;
+margin-right: 20px;
+margin-bottom: 3px;
+margin-left: 20px;
+	width:100%;
+	
+	
+	
+}
+
+
+#banner {
+	width: 90%;
+	font-family: "Comic Sans MS", cursive;
+background-color: #C03;
+margin-left: 55px;
+}
+
+#Maincontent {
+	width: 90%;
+	font-family: "Comic Sans MS", cursive;
+	font-size: large;
+	text-align: justify;
+	padding-top: 20px;
+	padding-right: 40px;
+	margin-top: 5px;
+    margin-right: 40px;
+    margin-left: 50px;
+	Color:#000;
+}

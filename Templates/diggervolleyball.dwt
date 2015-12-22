@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitle Document</title>
+<!-- TemplateEndEditable -->
+
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../../../Documents/Training_Zone/Styles/Stylesheet.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="container">
+<div id="banner">
+<h1><center>
+   Diggers Beach Volleyball 
+</center></h1>
+</div>
+
+  <div id="menu">
+  <ul>
+   <li><a href="../whocanplay.html">Who can play</a></li>
+     <li><a href="../aboutvolleyball.html">About Volleyball</a></li>
+     <li><a href="../contactandlink.html">Contact and Link</a></li>
+     <li><a href="../announcement.html">Announcement</a></li>
+     <li><a href="../signup.html">Sign up </a></li>
+   </ul>
+</div>
+
+ 
+ <div id="Maincontent"><!-- TemplateBeginEditable name="MainContent" -->
+  <center><img src="../Images/beachNet.jpg" width="500" height="300" /></center>
+  <p><br>Welcome to Diggers Beach Volleyball!<br />
+  <br>You can find a place to play, people who want to play and volleyball's tournament in this website.<br />
+  <br>This is an example ladder<br />
+  <br ><center><img src="../Images/abc.jpg" /></center><br />
+  Please join with us!<!-- TemplateEndEditable -->
+</div>
+</body>
+</html>
